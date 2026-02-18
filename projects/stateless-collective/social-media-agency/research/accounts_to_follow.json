@@ -1,0 +1,38 @@
+[
+  {
+    "npub": "npub1sg6plzptd64u62a878hep2kev88swjh3tw00gjsfl8f237lmu63q0uf63m",
+    "name": "Jack Dorsey",
+    "category": "Nostr/Bitcoin",
+    "note": "Nostr creator, Bitcoin advocate"
+  },
+  {
+    "npub": "npub1xtscya34g58tk0z605fvr788k263gsu6cy9x0mhnm87echrgufzsevkk9s",
+    "name": "Rabble",
+    "category": "Nostr Developer",
+    "note": "Core Nostr developer"
+  },
+  {
+    "npub": "npub1v0lxxxxut9rels0gtw6vmp5h6xgqt6s7h8t6q9h3z5h6xgqt6s7h8t6q9h3z5",
+    "name": "fiatjaf",
+    "category": "Nostr Developer",
+    "note": "Nostr protocol contributor"
+  },
+  {
+    "npub": "npub1g53mukxnjkcmr7fhfwk9pz6jvkypg03ccq3ec0w6p3x9k7k5x3qsmfdv3j",
+    "name": "jb55",
+    "category": "Nostr Developer",
+    "note": "Damus developer"
+  },
+  {
+    "npub": "npub1qny3tkh4w3z5k8xq9h3z5h6xgqt6s7h8t6q9h3z5h6xgqt6s7h8t6q9h3z5",
+    "name": "preston",
+    "category": "Bitcoin",
+    "note": "Bitcoin educator"
+  },
+  {
+    "npub": "npub1d0s3q3w4k5j6h7g8f9d0s1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0",
+    "name": "AI Researcher",
+    "category": "AI",
+    "note": "AI/AGI researcher on Nostr"
+  }
+]

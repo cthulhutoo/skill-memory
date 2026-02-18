@@ -1,0 +1,15 @@
+{
+  "accounts": [
+    {
+      "name": "stateless-amplifier",
+      "private_key_hex": "c82b3e65dbd6c55ff9f73b405bf4b5c2e1a3d41e2b03630dc3e6291cb6c90f2b",
+      "private_key_nsec": "nsec1eq4nuewm6mz4l70h8dq9ha94cts684q79vpkxrwruc53edkfpu4se23ttr",
+      "public_key": "08def4d5184a1f13e85d442418ddc938239c4f6ca5be8d8583c7ce3731e3c219",
+      "npub": "npub1pr00f4gcfg0386zagsjp3hwf8q3ecnmv5klgmpvrcl8rwv0rcgvsjk2azu",
+      "description": "Network building agent to amplify stateless.id projects",
+      "purpose": "Build network reach and amplify main project accounts",
+      "created": "2026-02-18T14:02:50.376400"
+    }
+  ],
+  "updated": "2026-02-18T14:02:50.376819"
+}
